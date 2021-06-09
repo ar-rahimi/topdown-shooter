@@ -1,0 +1,31 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/ahmadrahimi/Desktop/school/minor/blok 1/project/repos/GroepH"
+-- The C compiler identification is AppleClang 12.0.5.12050022
+-- The CXX compiler identification is AppleClang 12.0.5.12050022
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+FOUND SDL
+/usr/local/include/SDL2
+-- Found SDL2: /usr/local/lib/libSDL2main.a;/usr/local/lib/libSDL2.dylib;-framework Cocoa  
+-- Found SDL2_image: /usr/local/lib/libSDL2_image.dylib (found version "..") 
+-- Found PkgConfig: /usr/local/bin/pkg-config (found version "0.29.2") 
+testttszz22
+/Users/ahmadrahimi/Library/Frameworks/Box2D/include
+-- Found BOX2D: /Users/ahmadrahimi/Library/Frameworks/Box2D/lib/libBox2D.a  
+1
+11
+-- Box2D:
+--   - include dirs: /Users/ahmadrahimi/Library/Frameworks/Box2D/include
+--   - libraries: /Users/ahmadrahimi/Library/Frameworks/Box2D/lib/libBox2D.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ahmadrahimi/Desktop/school/minor/blok 1/project/repos/GroepH/cmake-build-debug
